@@ -1,12 +1,12 @@
 {
-    "version": "0.3.7",
+    "version": "0.3.8",
     "description": "Guardian Smart Multi-Cloud CLI — deploy everywhere, sleep soundly",
     "homepage": "https://github.com/LuckyOkoedion/guardian-ai-smart-multi-cloud-infra-releases",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/LuckyOkoedion/guardian-ai-smart-multi-cloud-infra-releases/releases/download/v0.3.7/guardian-windows-x86_64.exe",
-            "hash": "58ef7e0bc5333be230835bcc1653a4e1983203ab38ae29008169b9ec7b411c76"
+            "url": "https://github.com/LuckyOkoedion/guardian-ai-smart-multi-cloud-infra-releases/releases/download/v0.3.8/guardian-windows-x86_64.exe",
+            "hash": "a68f10d55c2e1c4a3157cb200463e0e5fea9381e2be36bda06b7ce898c7be031"
         }
     },
     "bin": "guardian-windows-x86_64.exe",
